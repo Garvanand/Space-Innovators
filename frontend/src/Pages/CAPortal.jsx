@@ -42,7 +42,7 @@ const CAPortal = () => {
       {!isregister && (
       <><div className="flex flex-col gap-10 items-center justify-center w-full h-screen absolute z-10">
           <h1 className="text-white z-30 md:text-[150px] font-cuda text-5xl drop-shadow-2xl">
-            CA Portal
+            TEAM Portal
           </h1>
           <button className="btn" type="button" onClick={handleRegisterClick}>
             <strong className="font-cM px-5">REGISTER NOW</strong>

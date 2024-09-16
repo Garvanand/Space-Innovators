@@ -11,8 +11,8 @@ const AudiencePortal = () => {
                 <h1 className="text-white z-30 md:text-[100px] font-cuda text-5xl drop-shadow-2xl text-center">Audience Portal</h1>
                 <div className="flex gap-4 flex-wrap text-center justify-center">
                     <button className="btn" type="button">
-                        <Link to="https://forms.gle/sRWBgxbfoRusQhue9">
-                            <strong className="font-cM text-xs px-4">Register as GBPIETian</strong>
+                        <Link to="https://forms.gle/">
+                            <strong className="font-cM text-xs px-4">Register as VITian(23 Batch)</strong>
                             <div id="container-stars">
                                 <div id="stars"></div>
                             </div>
@@ -23,8 +23,8 @@ const AudiencePortal = () => {
                         </Link>
                     </button>
                     <button className="btn text-center" type="button">
-                        <Link to="https://forms.gle/N2sRPXRN78wgk8JcA" target="blank">
-                            <strong className="font-cM text-xs px-4">Register as Non-GBPIETian</strong>
+                        <Link to="https://forms.gle/" target="blank">
+                            <strong className="font-cM text-xs px-4">Register as VITian(24 Batch)</strong>
                             <div id="container-stars">
                                 <div id="stars"></div>
                             </div>
@@ -35,7 +35,7 @@ const AudiencePortal = () => {
                         </Link>
                     </button>
                     <button className="btn" type="button">
-                        <Link to="https://forms.gle/Zgv5PRV5iyc436ui7">
+                        <Link to="https://forms.gle/">
                             <strong className="font-cM text-xs px-4">Register as Faculty and Staff</strong>
                             <div id="container-stars">
                                 <div id="stars"></div>
@@ -64,7 +64,7 @@ const AudiencePortal = () => {
                         <div className="w-full md:w-8/12">
                             <div className="flex flex-col gap-14 font-cM text-center md:text-left">
                                 <h2 className="text-4xl">What is <span className="text-[#5F43B2]">Audience Portal?</span></h2>
-                                <p className="font-cR">As an audience member, you will have the opportunity to immerse yourself in a rich tapestry of diverse talents, from mesmerizing dance routines and soulful musical performances to thought-provoking theatrical acts. Goonj is more than just a festival; it is a platform for expression, unity, and shared joy.</p>
+                                <p className="font-cR">As an audience member, you will have the opportunity to immerse yourself in a rich tapestry of space research, from mesmerizing exploration and technical events to thought-provoking theatrical acts. Space Innovators is more than just a club; it is a platform for learning, exploring, and shared joy.</p>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@ const AudiencePortal = () => {
                         <div className="w-full md:w-8/12">
                             <div className="flex flex-col gap-14 font-cM text-center md:text-left">
                                 <h2 className="text-4xl">Register <span className="text-[#5F43B2]">Now!</span></h2>
-                                <p className="font-cR">Register now to secure your spot and be a part of the cultural extravaganza that promises to ignite your senses and leave you with lasting memories. Connect with fellow enthusiasts, embrace the energy of live performances, and witness the magic of cultural diversity coming together on one stage.</p>
+                                <p className="font-cR">Register now to secure your spot and be a part of the space extravaganza that promises to ignite your senses and leave you with lasting memories. Connect with fellow enthusiasts, embrace the energy of diffrent celestial objects, and witness the magic of space and technology coming together on one stage.</p>
                             </div>
                         </div>
                         <div className="w-full md:w-4/12">

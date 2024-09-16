@@ -5,10 +5,10 @@ const ToS = () => {
     <div className='bg-EventBG pt-28 pb-10'>
         <div className='text-white w-10/12 mx-auto'>
             <p className='text-2xl md:text-3xl font-cSB  mb-6 text-[#5f43b2]'>Terms and Conditions</p>
-            <p className='text-base mt-2 font-cR'>Effective Date: June 2024</p>
+            <p className='text-base mt-2 font-cR'>Effective Date: September 2024</p>
             <p className='text-base mt-2 font-cR'>
 
-                Welcome to <span className='text-[#5f43b2]'>goonj.gbpiet.in</span>, These terms and conditions govern your use of the Website and any services provided therein. By accessing or using the Website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Website.
+                Welcome to <span className='text-[#5f43b2]'>space_innovators</span>, These terms and conditions govern your use of the Website and any services provided therein. By accessing or using the Website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Website.
             </p>
 
             <div className='flex flex-col gap-4 text-white my-6 font-cR text-sm'>
@@ -36,22 +36,22 @@ const ToS = () => {
                 <p>
                     <span className='font-bold text-lg'>3. Intellectual Property</span>
                     <br />
-                    Ownership: All content and materials on the Website, including but not limited to text, graphics, logos, and images, are the property of [Goonj GBPIET5] or its licensors and are protected by copyright and other intellectual property laws.
-                    Use License: You may not modify, reproduce, distribute, or display any content from the Website without the prior written consent of [Goonj GBPIET].
+                    Ownership: All content and materials on the Website, including but not limited to text, graphics, logos, and images, are the property of [Space Innovators Society] or its licensors and are protected by copyright and other intellectual property laws.
+                    Use License: You may not modify, reproduce, distribute, or display any content from the Website without the prior written consent of [Space Innovators Society].
                 </p>
                 
                 <p> 
                 <span className='font-bold text-lg'>4. Limitation of Liability</span>
                     <br />
-                    Disclaimer: The Website and its content are provided on an "as is" and "as available" basis, without any warranties of any kind, either express or implied. [Goonj GBPIET] disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
-                    Limitation of Liability: In no event shall Goonj '24 GBPIET be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with your use of the Website or any services provided therein.
+                    Disclaimer: The Website and its content are provided on an "as is" and "as available" basis, without any warranties of any kind, either express or implied. [Space Innovators Society] disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+                    Limitation of Liability: In no event shall Space Innovators Society@ VIT Bhopal be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with your use of the Website or any services provided therein.
                 </p>
                 
                 <p>
                     <span className='font-bold text-lg'>5. Identification </span>
                     <br />
                     
-                    You agree to indemnify and hold harmless [Goonj GBPIET], its officers, directors, employees, and agents, from and against any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in any way connected with your use of the Website or any violation of these Terms.
+                    You agree to indemnify and hold harmless [Space Innovators Society], its officers, directors, employees, and agents, from and against any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in any way connected with your use of the Website or any violation of these Terms.
                 </p>
 
                 <p>
@@ -65,14 +65,14 @@ const ToS = () => {
                 <p>
                     <span className='font-bold text-lg'>7. Changes to terms </span>
                     <br />
-                    Goonj '24, GBPIET reserves the right to update or modify these Terms at any time without prior notice. Any changes will be effective immediately upon posting the revised Terms on the Website.
+                    Space Innovators Society reserves the right to update or modify these Terms at any time without prior notice. Any changes will be effective immediately upon posting the revised Terms on the Website.
                 </p>
 
                 <p>
                     <span className='font-bold text-lg'>8. Contact Us</span>
                     <br />
                     
-                    If you have any questions or concerns about these Terms, please contact us at goonjgbpiet@gmail.com.
+                    If you have any questions or concerns about these Terms, please contact us at garv.23bai10605@vitbhopal.ac.in.
                 </p>
             </div>
         </div>
@@ -86,7 +86,7 @@ const ToS = () => {
                     <span className='font-bold text-lg'>1. Introduction:</span>
                     <br />
                     
-                    At Goonj.gbpiet.in, we are committed to protecting the privacy and security of our users' personal information. This privacy policy ("Policy") explains how we collect, use, and protect your personal information when you use our website to make payments using Cashfree Payments.
+                    At Space Innovators, we are committed to protecting the privacy and security of our users' personal information. This privacy policy ("Policy") explains how we collect, use, and protect your personal information when you use our website to make payments using Cashfree Payments.
 
                 </p> 
 
@@ -155,9 +155,8 @@ const ToS = () => {
                     <br />
                     
 
-                    If you have any questions or concerns about these Terms, please contact us at goonjgbpiet@gmail.com.
-                </p>
-
+                    If you have any questions or concerns about these Terms, please contact us at garv.23bai10605@vitbhopal.ac.in.
+</p>
                 <p>
                     <span className='font-bold text-lg'>8. Changes to This Policy</span>
                     <br />
