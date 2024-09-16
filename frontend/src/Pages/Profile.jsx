@@ -51,7 +51,7 @@ const Profile = () => {
               {receivedUserData?.name}
             </div>
             <div className="text-[#5f43b2]">
-              <span className="text-white">GOONJ ID: </span>{" "}
+              <span className="text-white">SIS ID: </span>{" "}
               {receivedUserData?.generated_id}
             </div>
             <div>{receivedUserData?.pNum}</div>

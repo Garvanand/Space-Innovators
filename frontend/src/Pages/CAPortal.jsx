@@ -42,7 +42,7 @@ const CAPortal = () => {
       {!isregister && (
       <><div className="flex flex-col gap-10 items-center justify-center w-full h-screen absolute z-10">
           <h1 className="text-white z-30 md:text-[150px] font-cuda text-5xl drop-shadow-2xl">
-            TEAM Portal
+            Team Portal
           </h1>
           <button className="btn" type="button" onClick={handleRegisterClick}>
             <strong className="font-cM px-5">REGISTER NOW</strong>
@@ -75,17 +75,17 @@ const CAPortal = () => {
                 <div className="w-full md:w-8/12">
                   <div className="flex flex-col gap-14 font-cM text-center md:text-left">
                     <h2 className="text-4xl">
-                      What is <span className="text-[#5F43B2]">CA Portal?</span>
+                      What is <span className="text-[#5F43B2]">Team Portal?</span>
                     </h2>
                     <p className="font-cR">
-                      The Goonj Campus Ambassador Program is your chance to be a key
-                      player in our college cultural fest! As an ambassador, you
+                      The Team Member is your chance to be a key
+                      player in our club member! As a member, you
                       will spread the word, boost participation, and create a buzz
-                      about Goonj. Gain exclusive perks, network with fellow
+                      about Space Innovators Society. Gain exclusive perks, network with fellow
                       students, and be at the forefront of the most anticipated
                       event on campus! It is a short and sweet opportunity to
                       showcase your leadership and creativity. Join the excitement
-                      of Goonj as a Campus Ambassador!
+                      of Space Innovators Society as a core team member!
                     </p>
                   </div>
                 </div>
@@ -98,19 +98,17 @@ const CAPortal = () => {
                   <div className="flex flex-col gap-14 font-cM text-center md:text-left">
                     <h2 className="text-4xl">
                       Why become a{" "}
-                      <span className="text-[#5F43B2]">Campus Ambassador?</span>
+                      <span className="text-[#5F43B2]">TEAM MEMBERS?</span>
                     </h2>
                     <p className="font-cR">
-                      Elevate your college experience by becoming a Campus
-                      Ambassador for our cultural fest! As an ambassador, you will
+                      Elevate your college experience by becoming a Team Member for our club! As an ambassador, you will
                       be the catalyst for the fests success, leading promotional
                       efforts and shaping the events narrative. This role is not
                       just about leadership and creativity; it is a chance to forge
                       lasting connections within the college community. Enjoy
                       exclusive perks, gain recognition, and contribute to the
-                      vibrant cultural tapestry of our college. Be part of something
-                      extraordinary—join us in creating an unforgettable cultural
-                      fest!
+                      vibrant space tapestry of our college. Be part of something
+                      extraordinary—join us in creating an unforgettable space journey!
                     </p>
                   </div>
                 </div>
@@ -136,12 +134,12 @@ const CAPortal = () => {
                     <div className="flex flex-col gap-10 pb-10">
                       <p>
                         <span className="text-[#5F43B2]">Free Entry</span> for the
-                        Campus Ambassador on 20+ Participation.
+                        TEAM MEMBERS on 20+ Registeration.
                       </p>
-                      <p>
-                        <span className="text-[#5F43B2]">Free</span> Goonj{" "}
+                      {/* <p>
+                        <span className="text-[#5F43B2]">Free</span> Space Innovators {" "}
                         <span className="text-[#5F43B2]">T-shirt</span>
-                      </p>
+                      </p> */}
                     </div>
                     <div className="text-center sm:text-right">
                       <p>

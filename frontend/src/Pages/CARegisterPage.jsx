@@ -194,7 +194,7 @@ const handleChange = (e, type) => {
               </p>
             </div>
             <div className="sm:flex text-center justify-center">
-              <p className="">GOONJ CA ID</p>
+              <p className="">SIS TEAM ID</p>
               <p className=""> {caDetail?.generated_id} </p>
             </div>
           </div>
